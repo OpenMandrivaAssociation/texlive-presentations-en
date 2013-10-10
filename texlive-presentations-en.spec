@@ -1,11 +1,11 @@
-# revision 27471
+# revision 29803
 # category Package
 # catalog-ctan /info/examples/Presentations_en
-# catalog-date 2012-08-19 23:51:29 +0200
+# catalog-date 2012-08-22 17:34:41 +0200
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-presentations-en
-Version:	20120819
+Version:	20120822
 Release:	1
 Summary:	Examples from the book Presentations with LaTeX
 Group:		Publishing
