@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-presentations-en
 Version:	20120822
-Release:	6
+Release:	7
 Summary:	Examples from the book Presentations with LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/examples/Presentations_en
