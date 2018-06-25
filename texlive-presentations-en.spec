@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-presentations-en
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Examples from the book Presentations with LaTeX
 Group:		Publishing
